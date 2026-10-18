@@ -4,6 +4,9 @@ Project Overview
 
 An interactive Power BI dashboard built to analyze shopping app transactions, food types, payment methods, delivery status, and monthly transaction trends.
 
+## Dashboard Preview 
+![Shopping App Power BI Dashboard](Dashboard%20Image.png)
+
 Objectives
 
 * Analyze total quantity and transaction counts.
